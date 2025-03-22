@@ -9,10 +9,10 @@ The objective is to extract useful insights that can support decision-making for
 
 - Analyze course registration data from a CSV file.
 - Extract key performance indicators such as:
-  - Total number of registrations
-  - Total revenue
-  - Average course price
-  - Most registered course
+- Total number of registrations
+- Total revenue
+- Average course price
+- Most registered course
 
 ---
 
