@@ -9,10 +9,10 @@ The objective is to extract useful insights that can support decision-making for
 
 - Analyze course registration data from a CSV file.
 - Extract key performance indicators such as:
-- Total number of registrations
-- Total revenue
-- Average course price
-- Most registered course
+  - Total number of registrations
+  - Total revenue
+  - Average course price
+  - Most registered course
 
 ---
 
@@ -35,12 +35,14 @@ The objective is to extract useful insights that can support decision-making for
 
 ## 📷 Sample Output
 
+Below is a screenshot of the analysis results showing the extracted metrics from the dataset:
 
+![Analysis Results](images/images/Screenshot 2025-03-22 053147.png)
 
 ---
 
 ## 👤 About Me
 
-My name is **Najla**, a student majoring in Information Technology.
-I'm passionate about data analysis and its impact on real-world decision-making.
+My name is **Najla**, a student majoring in Information Technology.\
+I'm passionate about data analysis and its impact on real-world decision-making.\
 This project reflects my interest in using programming to work with data and gain insights from it.
