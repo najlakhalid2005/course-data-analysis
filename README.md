@@ -37,7 +37,8 @@ The objective is to extract useful insights that can support decision-making for
 
 Below is a screenshot of the analysis results showing the extracted metrics from the dataset:
 
-![Analysis Results](screenshot_2025-03-22.png)
+![Analysis Results](images/images/screenshot_2025-03-22.png)
+
 
 
 ---
