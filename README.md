@@ -29,7 +29,7 @@ The objective is to extract useful insights that can support decision-making for
 
 - `course_data.csv` – Dataset containing course registration records
 - `course-data-analysis.ipynb` – Jupyter Notebook with the full analysis code
-- `images/result.png` – Screenshot of output results after analysis
+- `images/images/Screenshot 2025-03-22 053147.png` – Screenshot of output results after analysis
 
 ---
 
